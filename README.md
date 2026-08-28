@@ -32,7 +32,7 @@ This repository contains materials, presentation slides, paper summaries, and di
 
 ### 9/9
 * Differential privacy — **Seungho**
-* Data memorization — **Yena**
+* Data memorization — **Seungwoo**
 
 ### 9/16
 * Measuring and mitigating memorization (A Closer Look at Memorization in Deep Networks, Rethinking LLM Memorization through the Lens of Adversarial Compression) — **Byungchan**
@@ -52,6 +52,6 @@ This repository contains materials, presentation slides, paper summaries, and di
 
 ### 10/13
 * Interpretability-1 — **Heesung**
-* Interpretability-2 — **Seungwoo**
+* Interpretability-2 — **Yena**
 
 ---
